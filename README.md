@@ -5,8 +5,8 @@
 </div>
 
 ### 👩‍🏫 About Me / Sobre Mim
-* 🇺🇸 **English Teacher** transitioning into the tech world!
-* 🇧🇷 **Professora de Inglês** em transição para o mundo tech!
+* 📝 **English Teacher** transitioning into the tech world!
+* 📝 **Professora de Inglês** em transição para o mundo tech!
 * 🎓 Currently studying **Systems Analysis and Development** at Uniasselvi.
 * 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Uniasselvi.
 
@@ -23,19 +23,17 @@ Sou apaixonada por estudar TI, especialmente na área de **Desenvolvimento Web**
 
 ---
 
+### 🛠️ Toolbox / Ferramentas
+* **Languages & Tech:** `English` (Advanced/Teaching), `Portuguese` (Native), `HTML5`, `CSS3`, `JavaScript` (Learning).
+* **Tools:** `VS Code`, `Git`, `GitHub`.
+
+---
+
 ### ✨ Quote of the Day / Frase do Dia
 > “Every line of code is a tiny signal sent into the universe, shaping futures the way stars shape the night.” ✨🌠
 > 
 > “Cada linha de código é um pequeno sinal enviado ao universo, moldando o futuro da mesma forma que as estrelas moldam a noite.”
 
----
 
-### 🛠️ Toolbox / Ferramentas
-* **Languages:** `English` (Advanced/Teaching), `Portuguese` (Native), `JavaScript` (Learning).
-* **Tools:** `VS Code`, `Git`, `GitHub`.
 
----
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nanncy-keller&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Nancy's GitHub Stats">
-</div>
